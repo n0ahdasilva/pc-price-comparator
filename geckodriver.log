@@ -1,0 +1,1468 @@
+1652287061239	geckodriver	INFO	Listening on 127.0.0.1:59085
+1652287158993	geckodriver	INFO	Listening on 127.0.0.1:59165
+1652287159411	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59166" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofilePNqb3A"
+2022-05-11 12:39:19.736 plugin-container[50882:1527712] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:39:19.736 plugin-container[50882:1527712] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:39:19.738 plugin-container[50882:1527712] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:39:19.738 plugin-container[50882:1527712] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:39:19.738 plugin-container[50882:1527714] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:39:19.738 plugin-container[50882:1527714] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652287159739	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofilePNqb3A/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59166/devtools/browser/07410cde-bb0d-49a3-add8-1f913456ba64
+1652287160642	Marionette	INFO	Listening on port 59186
+Read port: 59186
+1652287160675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652287161067	geckodriver	INFO	Listening on 127.0.0.1:59193
+1652287161518	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59194" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofilea2zDFI"
+2022-05-11 12:39:21.760 plugin-container[50898:1528036] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:39:21.760 plugin-container[50898:1528036] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:39:21.762 plugin-container[50898:1528036] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:39:21.762 plugin-container[50898:1528036] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:39:21.762 plugin-container[50898:1528043] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:39:21.762 plugin-container[50898:1528043] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652287161763	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofilea2zDFI/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59194/devtools/browser/a60cd15b-0369-411c-aa94-0612d0c3c42c
+1652287162559	Marionette	INFO	Listening on port 59224
+Read port: 59224
+1652287162574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652287162970	geckodriver	INFO	Listening on 127.0.0.1:59235
+1652287163428	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59236" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileVVIVXo"
+1652287163711	Marionette	INFO	Marionette enabled
+2022-05-11 12:39:23.712 plugin-container[50911:1528338] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:39:23.712 plugin-container[50911:1528338] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:39:23.718 plugin-container[50911:1528338] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:39:23.718 plugin-container[50911:1528338] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:39:23.718 plugin-container[50911:1528362] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:39:23.718 plugin-container[50911:1528362] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileVVIVXo/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59236/devtools/browser/28db473a-759b-4fad-9b9b-f8dcc66abaf9
+1652287164754	Marionette	INFO	Listening on port 59270
+Read port: 59270
+1652287164792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652287295205	Marionette	INFO	Stopped listening on port 59186
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652287297190	Marionette	INFO	Stopped listening on port 59224
+1652287298692	Marionette	INFO	Stopped listening on port 59270
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652287301066	geckodriver	INFO	Listening on 127.0.0.1:59402
+1652287301470	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59403" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileGpd57t"
+2022-05-11 12:41:41.747 plugin-container[51016:1530553] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:41:41.748 plugin-container[51016:1530553] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:41:41.750 plugin-container[51016:1530553] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:41:41.750 plugin-container[51016:1530553] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:41:41.750 plugin-container[51016:1530555] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:41:41.750 plugin-container[51016:1530555] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652287301751	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileGpd57t/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59403/devtools/browser/99060a6c-c72d-431a-aa3c-1579d6469bda
+1652287302580	Marionette	INFO	Listening on port 59421
+Read port: 59421
+1652287302629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652287303004	geckodriver	INFO	Listening on 127.0.0.1:59428
+1652287303472	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59430" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofile6cRXQP"
+2022-05-11 12:41:43.733 plugin-container[51033:1530870] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:41:43.734 plugin-container[51033:1530870] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:41:43.736 plugin-container[51033:1530870] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:41:43.736 plugin-container[51033:1530870] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:41:43.736 plugin-container[51033:1530872] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:41:43.736 plugin-container[51033:1530872] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652287303737	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofile6cRXQP/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59430/devtools/browser/e48a3e7a-a179-4a65-b15f-b1a6ee7b6a61
+1652287304519	Marionette	INFO	Listening on port 59463
+Read port: 59463
+1652287304619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652287304988	geckodriver	INFO	Listening on 127.0.0.1:59475
+1652287305457	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59476" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofile8mSSp1"
+2022-05-11 12:41:45.720 plugin-container[51048:1531187] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:41:45.720 plugin-container[51048:1531187] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652287305721	Marionette	INFO	Marionette enabled
+2022-05-11 12:41:45.722 plugin-container[51048:1531187] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:41:45.722 plugin-container[51048:1531187] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:41:45.722 plugin-container[51048:1531209] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:41:45.722 plugin-container[51048:1531209] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofile8mSSp1/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59476/devtools/browser/169170ff-122e-4827-8498-1b500fbb3520
+1652287306612	Marionette	INFO	Listening on port 59514
+Read port: 59514
+1652287306719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652287397811	geckodriver	INFO	Listening on 127.0.0.1:59631
+1652287398221	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59632" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofilegVk6l8"
+1652287398554	Marionette	INFO	Marionette enabled
+2022-05-11 12:43:18.564 plugin-container[51103:1532622] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:43:18.564 plugin-container[51103:1532622] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:43:18.579 plugin-container[51103:1532622] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:43:18.579 plugin-container[51103:1532622] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:43:18.579 plugin-container[51103:1532650] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:43:18.579 plugin-container[51103:1532650] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofilegVk6l8/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59632/devtools/browser/155236d4-74b0-4e89-bb57-bac6fb681cea
+1652287399419	Marionette	INFO	Listening on port 59660
+Read port: 59660
+1652287399478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652287399866	geckodriver	INFO	Listening on 127.0.0.1:59667
+1652287400355	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59668" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofilemoG1AY"
+2022-05-11 12:43:20.636 plugin-container[51119:1532940] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:43:20.636 plugin-container[51119:1532940] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652287400637	Marionette	INFO	Marionette enabled
+2022-05-11 12:43:20.638 plugin-container[51119:1532940] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:43:20.638 plugin-container[51119:1532940] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:43:20.638 plugin-container[51119:1532942] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:43:20.639 plugin-container[51119:1532942] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofilemoG1AY/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59668/devtools/browser/6552dba8-2f36-4c92-aa42-8e9514953605
+1652287401461	Marionette	INFO	Listening on port 59692
+Read port: 59692
+1652287401506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652287401886	geckodriver	INFO	Listening on 127.0.0.1:59702
+1652287402342	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59703" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileJgubug"
+2022-05-11 12:43:22.605 plugin-container[51134:1533242] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:43:22.605 plugin-container[51134:1533242] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:43:22.607 plugin-container[51134:1533242] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:43:22.607 plugin-container[51134:1533242] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:43:22.607 plugin-container[51134:1533244] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:43:22.607 plugin-container[51134:1533244] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652287402609	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileJgubug/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59703/devtools/browser/b91fb7ba-178c-4c2f-bb09-e6826acc0c07
+1652287403463	Marionette	INFO	Listening on port 59735
+Read port: 59735
+1652287403487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652287430704	Marionette	INFO	Stopped listening on port 59421
+1652287434306	Marionette	INFO	Stopped listening on port 59514
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652287435720	Marionette	INFO	Stopped listening on port 59660
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652287437003	Marionette	INFO	Stopped listening on port 59692
+1652287439951	Marionette	INFO	Stopped listening on port 59463
+1652287442467	Marionette	INFO	Stopped listening on port 59735
+1652287554108	geckodriver	INFO	Listening on 127.0.0.1:59875
+1652287554492	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59876" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileVGwXAx"
+2022-05-11 12:45:54.811 plugin-container[51250:1535602] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:45:54.812 plugin-container[51250:1535602] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652287554816	Marionette	INFO	Marionette enabled
+2022-05-11 12:45:54.835 plugin-container[51250:1535602] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:45:54.835 plugin-container[51250:1535602] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:45:54.835 plugin-container[51250:1535629] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:45:54.835 plugin-container[51250:1535629] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileVGwXAx/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59876/devtools/browser/fea0aed1-77a9-4089-a014-8134b951f6f0
+1652287555665	Marionette	INFO	Listening on port 59890
+Read port: 59890
+1652287555759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652287556132	geckodriver	INFO	Listening on 127.0.0.1:59896
+1652287556601	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59897" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofile2159xI"
+2022-05-11 12:45:56.858 plugin-container[51268:1535933] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:45:56.858 plugin-container[51268:1535933] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:45:56.860 plugin-container[51268:1535933] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:45:56.860 plugin-container[51268:1535933] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:45:56.860 plugin-container[51268:1535940] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:45:56.860 plugin-container[51268:1535940] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652287556862	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofile2159xI/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59897/devtools/browser/e3e1c3d7-e559-4f1c-bda5-86a1069508e5
+1652287557679	Marionette	INFO	Listening on port 59926
+Read port: 59926
+1652287557746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652287558127	geckodriver	INFO	Listening on 127.0.0.1:59937
+1652287558590	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59938" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofilebLF5tg"
+2022-05-11 12:45:58.888 plugin-container[51281:1536235] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:45:58.889 plugin-container[51281:1536235] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652287558889	Marionette	INFO	Marionette enabled
+2022-05-11 12:45:58.901 plugin-container[51281:1536235] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:45:58.901 plugin-container[51281:1536235] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:45:58.901 plugin-container[51281:1536242] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:45:58.901 plugin-container[51281:1536242] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofilebLF5tg/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59938/devtools/browser/7ab7df78-589d-42a2-b095-259fd621fc11
+1652287559753	Marionette	INFO	Listening on port 59968
+Read port: 59968
+1652287559853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652287620080	geckodriver	INFO	Listening on 127.0.0.1:60052
+1652287620529	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60053" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileLzFECo"
+2022-05-11 12:47:00.806 plugin-container[51378:1537381] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:47:00.806 plugin-container[51378:1537381] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652287620810	Marionette	INFO	Marionette enabled
+2022-05-11 12:47:00.828 plugin-container[51378:1537381] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:47:00.828 plugin-container[51378:1537381] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:47:00.828 plugin-container[51378:1537387] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:47:00.828 plugin-container[51378:1537387] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileLzFECo/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:60053/devtools/browser/424a039d-b605-420d-a350-aec23ffd5c96
+1652287621735	Marionette	INFO	Listening on port 60066
+Read port: 60066
+1652287621787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652287622246	geckodriver	INFO	Listening on 127.0.0.1:60074
+1652287622686	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60075" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofilenbZU6o"
+2022-05-11 12:47:02.976 plugin-container[51397:1537756] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:47:02.976 plugin-container[51397:1537756] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:47:02.978 plugin-container[51397:1537756] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:47:02.978 plugin-container[51397:1537756] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:47:02.978 plugin-container[51397:1537778] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:47:02.978 plugin-container[51397:1537778] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652287622982	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofilenbZU6o/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:60075/devtools/browser/4f22a883-3a61-4354-b463-382f0cf8d802
+1652287623843	Marionette	INFO	Listening on port 60104
+Read port: 60104
+1652287623948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652287624338	geckodriver	INFO	Listening on 127.0.0.1:60113
+1652287624781	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60114" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileTDY0p9"
+2022-05-11 12:47:05.045 plugin-container[51412:1538052] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:47:05.045 plugin-container[51412:1538052] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:47:05.047 plugin-container[51412:1538052] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:47:05.047 plugin-container[51412:1538052] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:47:05.047 plugin-container[51412:1538075] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:47:05.047 plugin-container[51412:1538075] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652287625047	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileTDY0p9/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:60114/devtools/browser/7621678b-e232-4c49-98c2-d01e949753b8
+1652287625987	Marionette	INFO	Listening on port 60142
+Read port: 60142
+1652287626042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652287647534	Marionette	INFO	Stopped listening on port 59890
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652287648876	Marionette	INFO	Stopped listening on port 59926
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652287651070	Marionette	INFO	Stopped listening on port 59968
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652287652133	Marionette	INFO	Stopped listening on port 60066
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652287655314	Marionette	INFO	Stopped listening on port 60104
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652287657617	Marionette	INFO	Stopped listening on port 60142
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652287800353	geckodriver	INFO	Listening on 127.0.0.1:60284
+1652287800796	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60285" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileSASqDI"
+2022-05-11 12:50:01.102 plugin-container[51600:1540799] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:50:01.102 plugin-container[51600:1540799] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:50:01.105 plugin-container[51600:1540799] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:50:01.105 plugin-container[51600:1540799] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:50:01.105 plugin-container[51600:1540801] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:50:01.105 plugin-container[51600:1540801] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652287801106	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileSASqDI/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:60285/devtools/browser/3b17bdf8-790e-4d6e-9b89-28e1dcd305e0
+1652287801935	Marionette	INFO	Listening on port 60299
+Read port: 60299
+1652287801953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652287802336	geckodriver	INFO	Listening on 127.0.0.1:60306
+1652287802788	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60307" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofile26rb0O"
+1652287803052	Marionette	INFO	Marionette enabled
+2022-05-11 12:50:03.054 plugin-container[51616:1541106] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:50:03.054 plugin-container[51616:1541106] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:50:03.056 plugin-container[51616:1541106] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:50:03.056 plugin-container[51616:1541106] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:50:03.056 plugin-container[51616:1541130] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:50:03.056 plugin-container[51616:1541130] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofile26rb0O/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:60307/devtools/browser/76ff6539-8305-48fe-aed1-7d7e6a3c8fee
+1652287803955	Marionette	INFO	Listening on port 60337
+Read port: 60337
+1652287804050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652287804428	geckodriver	INFO	Listening on 127.0.0.1:60348
+1652287804883	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60349" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofile7VNQ1s"
+2022-05-11 12:50:05.120 plugin-container[51629:1541419] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:50:05.120 plugin-container[51629:1541419] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:50:05.122 plugin-container[51629:1541419] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:50:05.122 plugin-container[51629:1541419] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:50:05.122 plugin-container[51629:1541426] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:50:05.122 plugin-container[51629:1541426] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652287805123	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofile7VNQ1s/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:60349/devtools/browser/7f9a2fae-118a-4160-8396-45a1f83e6c8b
+1652287805962	Marionette	INFO	Listening on port 60377
+Read port: 60377
+1652287806045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652287808050	Marionette	INFO	Stopped listening on port 60299
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652287811099	Marionette	INFO	Stopped listening on port 60337
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652287812811	Marionette	INFO	Stopped listening on port 60377
+1652287944077	geckodriver	INFO	Listening on 127.0.0.1:60445
+1652287944516	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60446" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileyDxt09"
+2022-05-11 12:52:24.832 plugin-container[51807:1543239] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:52:24.832 plugin-container[51807:1543239] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:52:24.834 plugin-container[51807:1543239] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:52:24.834 plugin-container[51807:1543239] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:52:24.834 plugin-container[51807:1543247] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:52:24.834 plugin-container[51807:1543247] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652287944836	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileyDxt09/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:60446/devtools/browser/a2244159-6935-4beb-98e2-0c52ef6ef603
+1652287945720	Marionette	INFO	Listening on port 60460
+Read port: 60460
+1652287945766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652287955227	Marionette	INFO	Stopped listening on port 60460
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652287971310	geckodriver	INFO	Listening on 127.0.0.1:60495
+1652287971772	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60496" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofile4JK1sa"
+2022-05-11 12:52:52.043 plugin-container[51851:1543902] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:52:52.043 plugin-container[51851:1543902] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:52:52.045 plugin-container[51851:1543902] nil host used in call to allowsSpecificHTTPSCertificateForHost
+1652287972045	Marionette	INFO	Marionette enabled
+2022-05-11 12:52:52.045 plugin-container[51851:1543902] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:52:52.045 plugin-container[51851:1543904] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:52:52.045 plugin-container[51851:1543904] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofile4JK1sa/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:60496/devtools/browser/5185067b-4b06-46ca-98c1-1dff51931c27
+1652287972874	Marionette	INFO	Listening on port 60510
+Read port: 60510
+1652287972929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652288223919	geckodriver	INFO	Listening on 127.0.0.1:60668
+1652288224320	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60669" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileSyrYKY"
+1652288224625	Marionette	INFO	Marionette enabled
+2022-05-11 12:57:04.628 plugin-container[51988:1546971] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:57:04.628 plugin-container[51988:1546971] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:57:04.643 plugin-container[51988:1546971] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:57:04.643 plugin-container[51988:1546971] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:57:04.643 plugin-container[51988:1547003] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:57:04.643 plugin-container[51988:1547003] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileSyrYKY/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:60669/devtools/browser/cca2cae9-eec3-4460-937f-aeec823ee2fb
+1652288225489	Marionette	INFO	Listening on port 60683
+Read port: 60683
+1652288225579	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652288297168	geckodriver	INFO	Listening on 127.0.0.1:60767
+1652288297584	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60768" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileSUqgEy"
+2022-05-11 12:58:17.903 plugin-container[52065:1548144] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:58:17.904 plugin-container[52065:1548144] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652288297906	Marionette	INFO	Marionette enabled
+2022-05-11 12:58:17.924 plugin-container[52065:1548144] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:58:17.924 plugin-container[52065:1548144] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 12:58:17.924 plugin-container[52065:1548151] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 12:58:17.924 plugin-container[52065:1548151] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileSUqgEy/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:60768/devtools/browser/daa96b9f-0157-4949-9ad6-c85b904dfc94
+1652288298850	Marionette	INFO	Listening on port 60782
+Read port: 60782
+1652288298952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652288415752	geckodriver	INFO	Listening on 127.0.0.1:60928
+1652288416196	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60929" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofile49MqSN"
+2022-05-11 13:00:16.518 plugin-container[52168:1550230] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:00:16.518 plugin-container[52168:1550230] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652288416519	Marionette	INFO	Marionette enabled
+2022-05-11 13:00:16.536 plugin-container[52168:1550230] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:00:16.536 plugin-container[52168:1550230] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:00:16.536 plugin-container[52168:1550256] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:00:16.536 plugin-container[52168:1550256] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofile49MqSN/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:60929/devtools/browser/990ccc9f-03fa-4a73-9677-d47ba571a42d
+1652288417418	Marionette	INFO	Listening on port 60943
+Read port: 60943
+1652288417457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652288419350	Marionette	INFO	Stopped listening on port 60510
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652288421075	Marionette	INFO	Stopped listening on port 60683
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652288422566	Marionette	INFO	Stopped listening on port 60782
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652288433373	Marionette	INFO	Stopped listening on port 60943
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652288457746	geckodriver	INFO	Listening on 127.0.0.1:61023
+1652288458215	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61024" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofilecPAW6C"
+1652288458491	Marionette	INFO	Marionette enabled
+2022-05-11 13:00:58.491 plugin-container[52225:1551213] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:00:58.491 plugin-container[52225:1551213] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:00:58.493 plugin-container[52225:1551213] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:00:58.493 plugin-container[52225:1551213] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:00:58.493 plugin-container[52225:1551211] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:00:58.493 plugin-container[52225:1551211] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofilecPAW6C/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:61024/devtools/browser/8cf1cda3-2842-4961-8213-14a7205437c4
+1652288459350	Marionette	INFO	Listening on port 61038
+Read port: 61038
+1652288459365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652288577703	geckodriver	INFO	Listening on 127.0.0.1:61147
+1652288578103	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61148" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofilesXz6pS"
+1652288578444	Marionette	INFO	Marionette enabled
+2022-05-11 13:02:58.467 plugin-container[52315:1553155] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:02:58.467 plugin-container[52315:1553155] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:02:58.470 plugin-container[52315:1553155] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:02:58.470 plugin-container[52315:1553155] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:02:58.470 plugin-container[52315:1553178] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:02:58.470 plugin-container[52315:1553178] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofilesXz6pS/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:61148/devtools/browser/f48b9f24-066d-43ff-aae8-817edd5f6328
+1652288579369	Marionette	INFO	Listening on port 61164
+Read port: 61164
+1652288579459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652288647028	geckodriver	INFO	Listening on 127.0.0.1:61251
+1652288647472	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61252" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileJqR1Si"
+1652288647785	Marionette	INFO	Marionette enabled
+2022-05-11 13:04:07.803 plugin-container[52393:1554331] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:04:07.803 plugin-container[52393:1554331] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:04:07.828 plugin-container[52393:1554331] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:04:07.828 plugin-container[52393:1554331] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:04:07.828 plugin-container[52393:1554338] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:04:07.828 plugin-container[52393:1554338] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileJqR1Si/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:61252/devtools/browser/1964f798-bbe9-49f3-8864-a85d2cd8bff4
+1652288648727	Marionette	INFO	Listening on port 61267
+Read port: 61267
+1652288648829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652288761600	Marionette	INFO	Stopped listening on port 61038
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652288763048	Marionette	INFO	Stopped listening on port 61164
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652288764684	Marionette	INFO	Stopped listening on port 61267
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652288817648	geckodriver	INFO	Listening on 127.0.0.1:61404
+1652288839919	geckodriver	INFO	Listening on 127.0.0.1:61427
+1652288915880	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61428" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofile0sovMG"
+2022-05-11 13:08:36.258 plugin-container[52739:1558786] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:08:36.258 plugin-container[52739:1558786] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:08:36.260 plugin-container[52739:1558786] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:08:36.260 plugin-container[52739:1558786] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:08:36.260 plugin-container[52739:1558784] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:08:36.260 plugin-container[52739:1558784] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652288916262	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofile0sovMG/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:61428/devtools/browser/b2e112a0-eeab-42c1-a456-a8fbad1cf834
+1652288917093	Marionette	INFO	Listening on port 61479
+Read port: 61479
+1652288917135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 52741, MediaDecoderStateMachine #1] WARNING: 11b21fd20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:327
+1652289010314	geckodriver	INFO	Listening on 127.0.0.1:61676
+1652289010731	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61677" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofile6fs06z"
+1652289011091	Marionette	INFO	Marionette enabled
+2022-05-11 13:10:11.092 plugin-container[52795:1560273] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:10:11.092 plugin-container[52795:1560273] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:10:11.112 plugin-container[52795:1560273] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:10:11.112 plugin-container[52795:1560273] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:10:11.112 plugin-container[52795:1560300] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:10:11.112 plugin-container[52795:1560300] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofile6fs06z/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:61677/devtools/browser/654213e1-c07a-4c81-b8d5-4375780507da
+1652289012047	Marionette	INFO	Listening on port 61690
+Read port: 61690
+1652289012090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652289015414	Marionette	INFO	Stopped listening on port 61479
+[Child 52797, MediaDecoderStateMachine #1] WARNING: 11f10b5f0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:327
+1652289813614	Marionette	INFO	Stopped listening on port 61690
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652290205452	geckodriver	INFO	Listening on 127.0.0.1:62207
+1652290205866	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62208" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileTEJyzW"
+2022-05-11 13:30:06.251 plugin-container[53307:1575264] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:30:06.252 plugin-container[53307:1575264] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652290206261	Marionette	INFO	Marionette enabled
+2022-05-11 13:30:06.336 plugin-container[53307:1575264] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:30:06.336 plugin-container[53307:1575264] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:30:06.336 plugin-container[53307:1575262] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:30:06.336 plugin-container[53307:1575262] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileTEJyzW/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:62208/devtools/browser/f89b4dcb-1887-4953-b5f8-1127af95b772
+1652290207225	Marionette	INFO	Listening on port 62222
+Read port: 62222
+1652290207337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 53309, MediaDecoderStateMachine #1] WARNING: 11d9538d0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:327
+1652290221047	Marionette	INFO	Stopped listening on port 62222
+1652290233969	geckodriver	INFO	Listening on 127.0.0.1:62347
+1652290234411	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62348" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileBprpqA"
+2022-05-11 13:30:34.662 plugin-container[53349:1576201] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:30:34.662 plugin-container[53349:1576201] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:30:34.665 plugin-container[53349:1576201] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:30:34.665 plugin-container[53349:1576201] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:30:34.665 plugin-container[53349:1576203] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:30:34.665 plugin-container[53349:1576203] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652290234666	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileBprpqA/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:62348/devtools/browser/deda9daa-aa71-41da-98af-b870706ba740
+1652290235423	Marionette	INFO	Listening on port 62362
+Read port: 62362
+1652290235465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652290235864	geckodriver	INFO	Listening on 127.0.0.1:62369
+1652290236334	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62370" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileoVZXoG"
+2022-05-11 13:30:36.599 plugin-container[53365:1576491] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:30:36.599 plugin-container[53365:1576491] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:30:36.601 plugin-container[53365:1576491] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:30:36.601 plugin-container[53365:1576491] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652290236601	Marionette	INFO	Marionette enabled
+2022-05-11 13:30:36.601 plugin-container[53365:1576498] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:30:36.601 plugin-container[53365:1576498] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileoVZXoG/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:62370/devtools/browser/e6567075-6654-4919-875b-bd093edd8a1c
+1652290237415	Marionette	INFO	Listening on port 62396
+Read port: 62396
+1652290237499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652290237883	geckodriver	INFO	Listening on 127.0.0.1:62407
+1652290238352	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62408" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileiUDGti"
+1652290238639	Marionette	INFO	Marionette enabled
+2022-05-11 13:30:38.640 plugin-container[53378:1576772] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:30:38.640 plugin-container[53378:1576772] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:30:38.642 plugin-container[53378:1576772] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:30:38.642 plugin-container[53378:1576772] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:30:38.642 plugin-container[53378:1576797] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:30:38.642 plugin-container[53378:1576797] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileiUDGti/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:62408/devtools/browser/f14f56e4-bd44-4592-a665-526b0559a5a9
+1652290239459	Marionette	INFO	Listening on port 62436
+Read port: 62436
+1652290239508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652290241818	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://c1.neweggimages.com/WebResource/Scripts/WWW/vendor~search~ProductList-d37f0904.js, line 1: Error: Request aborted
+1652290243919	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290245370	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290246625	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://imk.neweggimages.com/WebResource/Scripts/can/strc/launch/can_prod/3addd1245689/86d46c476f2e/biztralib.js, line 5: Error: Failed to load script https://imk.neweggimages.com/WebResource/Scripts/can/strc/launch/can_prod/3addd1245689/86d46c476f2e/69eec721f4aa/biztralib2.js
+1652290247681	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290249836	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290250451	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652290251408	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290253550	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290255685	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290257738	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290259752	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290260970	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290262816	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290266070	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652290268023	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290269985	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290274336	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290276486	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290277938	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290279448	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290280997	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290285695	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://tags.tiqcdn.com/utag/newegg/newegg.ca/prod/utag.94.js?utv=ut4.46.201811302009, line 6: TypeError: HLLibrary.newRequest().setProperty is not a function
+JavaScript warning: https://www.amazon.ca/s?k=msi+3080+12g&ref=nb_sb_noss_2 line 6519 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dFqp3r-NjKYIiZFGuMjg27V2y58JRdrnPk3CKLoufA4.js line 1 > eval line 3992 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 53367, MediaDecoderStateMachine #1] WARNING: 10f2561d0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:327
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71C2svgi79L.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290390178	Marionette	INFO	Stopped listening on port 62362
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652290391633	Marionette	INFO	Stopped listening on port 62396
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652290393413	Marionette	INFO	Stopped listening on port 62436
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652290425965	geckodriver	INFO	Listening on 127.0.0.1:62904
+1652290426376	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62905" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofile6SlJhF"
+2022-05-11 13:33:46.703 plugin-container[53517:1580016] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:33:46.703 plugin-container[53517:1580016] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:33:46.705 plugin-container[53517:1580016] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:33:46.705 plugin-container[53517:1580016] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:33:46.706 plugin-container[53517:1580024] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:33:46.706 plugin-container[53517:1580024] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652290426712	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofile6SlJhF/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:62905/devtools/browser/1ff0cbed-91b5-43e2-bb4b-8b51dc0a7316
+1652290427599	Marionette	INFO	Listening on port 62919
+Read port: 62919
+1652290427639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652290428027	geckodriver	INFO	Listening on 127.0.0.1:62926
+1652290428501	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62927" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileHOeAmI"
+2022-05-11 13:33:48.758 plugin-container[53543:1580331] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:33:48.759 plugin-container[53543:1580331] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:33:48.761 plugin-container[53543:1580331] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:33:48.761 plugin-container[53543:1580331] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:33:48.761 plugin-container[53543:1580329] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:33:48.761 plugin-container[53543:1580329] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652290428762	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileHOeAmI/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:62927/devtools/browser/ba3e9744-7dbf-4922-913c-f0bf833828f9
+1652290429532	Marionette	INFO	Listening on port 62953
+Read port: 62953
+1652290429553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652290429941	geckodriver	INFO	Listening on 127.0.0.1:62964
+1652290430396	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62965" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileZrxQrf"
+2022-05-11 13:33:50.645 plugin-container[53556:1580618] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:33:50.646 plugin-container[53556:1580618] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:33:50.648 plugin-container[53556:1580618] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:33:50.648 plugin-container[53556:1580618] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:33:50.648 plugin-container[53556:1580643] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:33:50.648 plugin-container[53556:1580643] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652290430649	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileZrxQrf/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:62965/devtools/browser/83cfff89-a89d-46e4-aeaf-e98c8e0e05b6
+1652290431475	Marionette	INFO	Listening on port 62993
+Read port: 62993
+1652290431551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652290433401	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://imk.neweggimages.com/WebResource/Scripts/can/strc/launch/can_prod/3addd1245689/86d46c476f2e/biztralib.js, line 5: Error: Failed to load script https://imk.neweggimages.com/WebResource/Scripts/can/strc/launch/can_prod/3addd1245689/86d46c476f2e/69eec721f4aa/biztralib2.js
+1652290435002	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290437978	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290439187	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652290440032	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290442532	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290444697	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290446728	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290447997	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290449558	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290451531	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290452772	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290454031	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290455793	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290457439	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290458832	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290460960	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290462661	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290464041	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290465081	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290467184	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290468567	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.ca/s?k=msi+3080+12g&ref=nb_sb_noss_2 line 6705 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://tags.tiqcdn.com/utag/newegg/newegg.ca/prod/utag.94.js?utv=ut4.46.201811302009, line 6: TypeError: HLLibrary.newRequest().setProperty is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dFqp3r-NjKYIiZFGuMjg27V2y58JRdrnPk3CKLoufA4.js line 1 > eval line 4313 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 53545, MediaDecoderStateMachine #1] WARNING: 11abd5d80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:327
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+1652290696423	geckodriver	INFO	Listening on 127.0.0.1:63467
+1652290696851	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63468" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofiley4w2Uh"
+2022-05-11 13:38:17.179 plugin-container[53749:1584577] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:38:17.179 plugin-container[53749:1584577] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:38:17.181 plugin-container[53749:1584577] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:38:17.181 plugin-container[53749:1584577] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:38:17.181 plugin-container[53749:1584600] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:38:17.181 plugin-container[53749:1584600] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652290697183	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofiley4w2Uh/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:63468/devtools/browser/6cfb62db-772d-4aad-bca6-407c2819a2d7
+1652290698043	Marionette	INFO	Listening on port 63482
+Read port: 63482
+1652290698106	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652290698497	geckodriver	INFO	Listening on 127.0.0.1:63489
+1652290698953	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63490" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileqGa2pY"
+2022-05-11 13:38:19.202 plugin-container[53765:1584908] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:38:19.202 plugin-container[53765:1584908] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:38:19.204 plugin-container[53765:1584908] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:38:19.204 plugin-container[53765:1584908] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652290699204	Marionette	INFO	Marionette enabled
+2022-05-11 13:38:19.204 plugin-container[53765:1584906] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:38:19.204 plugin-container[53765:1584906] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652290699311	Marionette	INFO	Stopped listening on port 62919
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileqGa2pY/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:63490/devtools/browser/2a166e72-b446-4e8f-9823-1b55bafa180c
+1652290700022	Marionette	INFO	Listening on port 63515
+Read port: 63515
+1652290700101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652290700489	geckodriver	INFO	Listening on 127.0.0.1:63526
+1652290700934	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63527" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileaKvQtw"
+1652290701095	Marionette	INFO	Stopped listening on port 62953
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652290701183	Marionette	INFO	Marionette enabled
+2022-05-11 13:38:21.186 plugin-container[53780:1585221] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:38:21.186 plugin-container[53780:1585221] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:38:21.188 plugin-container[53780:1585221] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:38:21.188 plugin-container[53780:1585221] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:38:21.188 plugin-container[53780:1585249] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:38:21.188 plugin-container[53780:1585249] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileaKvQtw/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:63527/devtools/browser/e0827eff-9eb1-4cbf-8313-e0d69e24a098
+1652290702025	Marionette	INFO	Listening on port 63555
+Read port: 63555
+1652290702093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652290703118	Marionette	INFO	Stopped listening on port 62993
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652290704145	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290704876	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652290706285	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290708003	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290710969	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652290712162	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652290714017	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290715123	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652290716564	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290717478	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290718490	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652290719488	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652290720419	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290721343	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652290722288	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652290723211	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290724144	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652290725081	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652290726064	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652290727045	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652290728367	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652290729103	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.ca/s?k=msi+3080+12g&ref=nb_sb_noss_2 line 6854 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://tags.tiqcdn.com/utag/newegg/newegg.ca/prod/utag.94.js?utv=ut4.46.201811302009, line 6: TypeError: HLLibrary.newRequest().setProperty is not a function
+JavaScript error: https://adservice.google.ca/adsid/integrator.js?domain=www.newegg.ca, line 1: TypeError: processGoogleToken is not a function
+JavaScript error: https://adservice.google.com/adsid/integrator.js?domain=www.newegg.ca, line 1: TypeError: processGoogleToken is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dFqp3r-NjKYIiZFGuMjg27V2y58JRdrnPk3CKLoufA4.js line 1 > eval line 7167 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290903525	geckodriver	INFO	Listening on 127.0.0.1:63957
+1652290903961	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63958" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileFm4Op8"
+2022-05-11 13:41:44.284 plugin-container[53899:1587533] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:41:44.285 plugin-container[53899:1587533] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652290904287	Marionette	INFO	Marionette enabled
+2022-05-11 13:41:44.306 plugin-container[53899:1587533] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:41:44.306 plugin-container[53899:1587533] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:41:44.306 plugin-container[53899:1587562] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:41:44.306 plugin-container[53899:1587562] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileFm4Op8/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:63958/devtools/browser/bb6c6337-b1f8-4647-a594-056c95a1d576
+1652290905189	Marionette	INFO	Listening on port 63972
+Read port: 63972
+1652290905224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652290905613	geckodriver	INFO	Listening on 127.0.0.1:63979
+1652290906064	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63980" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofilec7Mc6T"
+2022-05-11 13:41:46.314 plugin-container[53922:1587897] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:41:46.314 plugin-container[53922:1587897] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:41:46.316 plugin-container[53922:1587897] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:41:46.316 plugin-container[53922:1587897] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:41:46.317 plugin-container[53922:1587895] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:41:46.317 plugin-container[53922:1587895] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652290906317	Marionette	INFO	Marionette enabled
+1652290906457	Marionette	INFO	Stopped listening on port 63482
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofilec7Mc6T/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:63980/devtools/browser/a46d5dcc-493f-46a7-ad02-f1a26bb3fe47
+1652290907154	Marionette	INFO	Listening on port 64006
+Read port: 64006
+1652290907220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652290907615	geckodriver	INFO	Listening on 127.0.0.1:64017
+1652290908089	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64018" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileM0Hvkb"
+2022-05-11 13:41:48.369 plugin-container[53936:1588228] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:41:48.369 plugin-container[53936:1588228] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652290908371	Marionette	INFO	Marionette enabled
+2022-05-11 13:41:48.371 plugin-container[53936:1588228] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:41:48.371 plugin-container[53936:1588228] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:41:48.372 plugin-container[53936:1588250] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:41:48.372 plugin-container[53936:1588250] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652290908517	Marionette	INFO	Stopped listening on port 63515
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileM0Hvkb/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:64018/devtools/browser/fc787a81-ebf6-4017-a3e3-321fd91a6a77
+1652290909228	Marionette	INFO	Listening on port 64045
+Read port: 64045
+1652290909344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652290910509	Marionette	INFO	Stopped listening on port 63555
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652290911155	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290913858	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290916594	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://imk.neweggimages.com/WebResource/Scripts/can/strc/launch/can_prod/3addd1245689/86d46c476f2e/biztralib.js, line 5: Error: Failed to load script https://imk.neweggimages.com/WebResource/Scripts/can/strc/launch/can_prod/3addd1245689/86d46c476f2e/69eec721f4aa/biztralib2.js
+1652290919261	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652290920594	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+1652290922696	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://c1.neweggimages.com/WebResource/Scripts/WWW/vendor~product~ProductDetail-0dd45375.js, line 1: Error: Request aborted
+1652290924090	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652290925358	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652290927132	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290928412	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652290929939	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652290931439	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652290932613	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652290934219	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://c1.neweggimages.com/WebResource/Scripts/WWW/vendor~product~ProductDetail-0dd45375.js, line 1: Error: Request aborted
+1652290935442	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652290936553	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652290937989	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652290939042	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652290940118	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652290942113	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652290943493	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.ca/s?k=msi+3080+12g&ref=nb_sb_noss_2 line 6820 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://tags.tiqcdn.com/utag/newegg/newegg.ca/prod/utag.94.js?utv=ut4.46.201811302009, line 6: TypeError: HLLibrary.newRequest().setProperty is not a function
+JavaScript error: https://adservice.google.com/adsid/integrator.js?domain=www.newegg.ca, line 1: TypeError: processGoogleToken is not a function
+JavaScript error: https://adservice.google.ca/adsid/integrator.js?domain=www.newegg.ca, line 1: TypeError: processGoogleToken is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dFqp3r-NjKYIiZFGuMjg27V2y58JRdrnPk3CKLoufA4.js line 1 > eval line 99 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 53924, MediaDecoderStateMachine #1] WARNING: 119791d80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:327
+1652291339669	geckodriver	INFO	Listening on 127.0.0.1:65035
+1652291340086	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65036" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileHhujhP"
+2022-05-11 13:49:00.419 plugin-container[54251:1595569] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:49:00.419 plugin-container[54251:1595569] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652291340422	Marionette	INFO	Marionette enabled
+2022-05-11 13:49:00.443 plugin-container[54251:1595569] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:49:00.443 plugin-container[54251:1595569] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:49:00.443 plugin-container[54251:1595597] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:49:00.443 plugin-container[54251:1595597] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileHhujhP/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:65036/devtools/browser/ffa98951-76cc-44d7-bf03-e8970bf6d864
+1652291341307	Marionette	INFO	Listening on port 65050
+Read port: 65050
+1652291341354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652291341735	geckodriver	INFO	Listening on 127.0.0.1:65057
+1652291342197	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65058" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofiletckRXf"
+1652291342252	Marionette	INFO	Stopped listening on port 63972
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+2022-05-11 13:49:02.475 plugin-container[54268:1595919] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:49:02.475 plugin-container[54268:1595919] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:49:02.477 plugin-container[54268:1595919] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:49:02.477 plugin-container[54268:1595919] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652291342477	Marionette	INFO	Marionette enabled
+2022-05-11 13:49:02.477 plugin-container[54268:1595921] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:49:02.477 plugin-container[54268:1595921] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofiletckRXf/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:65058/devtools/browser/0ec9b718-eb7d-4509-856d-33116423e929
+1652291343267	Marionette	INFO	Listening on port 65084
+Read port: 65084
+1652291343359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652291343737	geckodriver	INFO	Listening on 127.0.0.1:65096
+1652291343970	Marionette	INFO	Stopped listening on port 64006
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652291344193	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65097" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileWcgUKn"
+2022-05-11 13:49:04.452 plugin-container[54283:1596220] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:49:04.452 plugin-container[54283:1596220] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:49:04.454 plugin-container[54283:1596220] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:49:04.454 plugin-container[54283:1596220] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:49:04.454 plugin-container[54283:1596225] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:49:04.454 plugin-container[54283:1596225] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652291344455	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileWcgUKn/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:65097/devtools/browser/9d614fc1-2c6a-4dab-9511-3241c246100e
+1652291345244	Marionette	INFO	Listening on port 65125
+Read port: 65125
+1652291345345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652291345640	Marionette	INFO	Stopped listening on port 64045
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652291347491	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://c1.neweggimages.com/WebResource/Scripts/WWW/vendor~search~ProductList-d37f0904.js, line 1: Error: Request aborted
+JavaScript error: https://c1.neweggimages.com/WebResource/Scripts/WWW/vendor~search~ProductList-d37f0904.js, line 1: Error: Network Error
+JavaScript error: https://imk.neweggimages.com/WebResource/Scripts/can/strc/launch/can_prod/3addd1245689/86d46c476f2e/biztralib.js, line 5: Error: Failed to load script https://imk.neweggimages.com/WebResource/Scripts/can/strc/launch/can_prod/3addd1245689/86d46c476f2e/69eec721f4aa/biztralib2.js
+1652291348529	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://c1.neweggimages.com/WebResource/Scripts/WWW/vendor~product~ProductDetail-0dd45375.js, line 1: Error: Network Error
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652291350468	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652291352994	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652291354406	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652291355960	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652291357197	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652291358272	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652291359370	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652291360478	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652291361636	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652291362617	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652291363717	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652291365197	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652291366198	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652291367129	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652291368095	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652291369113	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652291370221	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652291371342	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652291372573	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.ca/s?k=msi+3080+12g line 6866 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://tags.tiqcdn.com/utag/newegg/newegg.ca/prod/utag.94.js?utv=ut4.46.201811302009, line 6: TypeError: HLLibrary.newRequest().setProperty is not a function
+JavaScript error: https://adservice.google.ca/adsid/integrator.js?domain=www.newegg.ca, line 1: TypeError: processGoogleToken is not a function
+JavaScript error: https://adservice.google.com/adsid/integrator.js?domain=www.newegg.ca, line 1: TypeError: processGoogleToken is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dFqp3r-NjKYIiZFGuMjg27V2y58JRdrnPk3CKLoufA4.js line 1 > eval line 316 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://f19f3f972321da4143ba71841631b308.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: ReferenceError: osdlfm is not defined
+JavaScript error: https://f19f3f972321da4143ba71841631b308.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: ReferenceError: googqscp is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/2YVBhELfy0MTwPjrvsYSLv1ZpKJ51JghDEisTAIe9nM.js line 1 > eval line 5237 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://f19f3f972321da4143ba71841631b308.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 27: ReferenceError: AdobeAn is not defined
+[Child 54270, MediaDecoderStateMachine #1] WARNING: 110c32060 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:327
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71C2svgi79L.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652291418352	geckodriver	INFO	Listening on 127.0.0.1:49155
+1652291418804	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49156" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofile4mouLL"
+2022-05-11 13:50:19.068 plugin-container[54385:1597942] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:50:19.068 plugin-container[54385:1597942] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:50:19.071 plugin-container[54385:1597942] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:50:19.071 plugin-container[54385:1597942] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:50:19.071 plugin-container[54385:1597950] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:50:19.071 plugin-container[54385:1597950] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652291419074	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofile4mouLL/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:49156/devtools/browser/b731805c-a47f-4f56-998f-a84938b588ef
+1652291419957	Marionette	INFO	Listening on port 49170
+Read port: 49170
+1652291420049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652291420464	geckodriver	INFO	Listening on 127.0.0.1:49177
+1652291420898	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49178" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofiley4jNno"
+1652291421014	Marionette	INFO	Stopped listening on port 65050
+2022-05-11 13:50:21.169 plugin-container[54401:1598297] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:50:21.170 plugin-container[54401:1598297] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:50:21.172 plugin-container[54401:1598297] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:50:21.172 plugin-container[54401:1598297] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:50:21.172 plugin-container[54401:1598299] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:50:21.172 plugin-container[54401:1598299] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652291421173	Marionette	INFO	Marionette enabled
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofiley4jNno/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:49178/devtools/browser/6c2b940a-051b-4e0d-8fac-c86d6682dde2
+1652291422061	Marionette	INFO	Listening on port 49209
+Read port: 49209
+1652291422150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652291422551	geckodriver	INFO	Listening on 127.0.0.1:49218
+1652291422735	Marionette	INFO	Stopped listening on port 65084
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652291423004	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49219" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileGbMi3u"
+1652291423257	Marionette	INFO	Marionette enabled
+2022-05-11 13:50:23.257 plugin-container[54414:1598659] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:50:23.258 plugin-container[54414:1598659] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:50:23.260 plugin-container[54414:1598659] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:50:23.260 plugin-container[54414:1598659] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 13:50:23.260 plugin-container[54414:1598661] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 13:50:23.260 plugin-container[54414:1598661] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/08/dh1vrphd6dzds1rghpr4x3th0000gp/T/rust_mozprofileGbMi3u/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:49219/devtools/browser/8491afb0-9a30-481b-b600-36f5f610cb6c
+1652291424033	Marionette	INFO	Listening on port 49244
+Read port: 49244
+1652291424046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652291425287	Marionette	INFO	Stopped listening on port 65125
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652291426819	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://imk.neweggimages.com/WebResource/Scripts/can/strc/launch/can_prod/3addd1245689/86d46c476f2e/biztralib.js, line 5: Error: Failed to load script https://imk.neweggimages.com/WebResource/Scripts/can/strc/launch/can_prod/3addd1245689/86d46c476f2e/69eec721f4aa/biztralib2.js
+1652291431600	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://imk.neweggimages.com/WebResource/Scripts/can/strc/launch/can_prod/3addd1245689/86d46c476f2e/biztralib.js, line 5: Error: Failed to load script https://imk.neweggimages.com/WebResource/Scripts/can/strc/launch/can_prod/3addd1245689/86d46c476f2e/69eec721f4aa/biztralib2.js
+1652291433734	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652291434776	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652291436842	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652291441096	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652291443764	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652291444809	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652291445737	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652291446734	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652291447882	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://c1.neweggimages.com/WebResource/Scripts/WWW/vendor~product~ProductDetail-0dd45375.js, line 1: Error: Request aborted
+1652291448799	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://c1.neweggimages.com/WebResource/Scripts/WWW/vendor~product~ProductDetail-0dd45375.js, line 1: Error: Request aborted
+1652291449757	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://c1.neweggimages.com/WebResource/Scripts/WWW/vendor~product~ProductDetail-0dd45375.js, line 1: Error: Request aborted
+JavaScript error: https://c1.neweggimages.com/WebResource/Scripts/WWW/vendor~product~ProductDetail-0dd45375.js, line 1: Error: Request aborted
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://c1.neweggimages.com/WebResource/Scripts/WWW/vendor~product~ProductDetail-0dd45375.js, line 1: Error: Request aborted
+1652291450867	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652291451792	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652291452728	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652291453672	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652291454626	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1652291455626	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://c1.neweggimages.com/WebResource/Scripts/WWW/vendor~product~ProductDetail-0dd45375.js, line 1: Error: Request aborted
+JavaScript error: https://c1.neweggimages.com/WebResource/Scripts/WWW/vendor~product~ProductDetail-0dd45375.js, line 1: Error: Request aborted
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652291456569	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://c1.neweggimages.com/WebResource/Scripts/WWW/vendor~product~ProductDetail-0dd45375.js, line 1: Error: Request aborted
+JavaScript error: https://c1.neweggimages.com/WebResource/Scripts/WWW/vendor~product~ProductDetail-0dd45375.js, line 1: Error: Request aborted
+JavaScript error: https://c1.neweggimages.com/WebResource/Scripts/WWW/vendor~product~ProductDetail-0dd45375.js, line 1: Error: Request aborted
+JavaScript error: https://c1.neweggimages.com/WebResource/Scripts/WWW/vendor~product~ProductDetail-0dd45375.js, line 1: Error: Request aborted
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652291457526	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.newegg.com/gfplib.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.ca/s?k=msi+3080+12g line 6861 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://tags.tiqcdn.com/utag/newegg/newegg.ca/prod/utag.94.js?utv=ut4.46.201811302009, line 6: TypeError: HLLibrary.newRequest().setProperty is not a function
+JavaScript error: https://adservice.google.ca/adsid/integrator.js?domain=www.newegg.ca, line 1: TypeError: processGoogleToken is not a function
+JavaScript error: https://adservice.google.com/adsid/integrator.js?domain=www.newegg.ca, line 1: TypeError: processGoogleToken is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dFqp3r-NjKYIiZFGuMjg27V2y58JRdrnPk3CKLoufA4.js line 1 > eval line 5370 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 54403, MediaDecoderStateMachine #1] WARNING: 11b6f43a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:327
+1652291471191	Marionette	INFO	Stopped listening on port 49244
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652291472628	Marionette	INFO	Stopped listening on port 49209
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652291475132	Marionette	INFO	Stopped listening on port 49170
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+

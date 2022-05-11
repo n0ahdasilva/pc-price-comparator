@@ -11,10 +11,10 @@ files for later access.
 import json
 
 # We've imported the other .py files used for individual store searching.
+
 from pricesneweggca import *
 from pricescanadacomputers import *
 from pricesamazonca import *
-
 #from browsersession import *
 
 class JSONFiles(object):
@@ -30,9 +30,9 @@ class JSONFiles(object):
             json.dump(data, fp)
 
 class ItemDataCA(object):
-    def __init__(self, search_in):
-        self.search_in = search_in
-        self.search_for = search_for
+    def __init__(self, search_in, search_for):
+        self.search_in = search_in      # The sites we want to search in.
+        self.search_for = search_for    # The item we want to search for.
 
     def data_canada(self):
         for site in self.search_in:    # Only searching for the site selected, instead of searching in all of them.
@@ -48,7 +48,8 @@ class ItemDataCA(object):
                     print(f'An error has occured with {site}')
         
                 if data_newegg_ca is not None:    # If we sucessfully pulled the information from the site, we'll store it into JSON files.
-                    print()
+                    with open("newegg_ca.json", "w") as writeJSON:
+                        json.dump(data_newegg_ca, writeJSON, ensure_ascii=False)
 
             if site == 'canadacomputers.com':    # Run the search on canadacomputers.com if it was selected.
                 try:
@@ -59,8 +60,9 @@ class ItemDataCA(object):
                     data_cc_ca = None    # If there was a problem pulling the information, set the variable to None.
                     print(f'An error has occured with {site}')
 
-                if data_newegg_ca is not None:    # If we sucessfully pulled the information from the site, we'll store it into JSON files.
-                    print()
+                if data_cc_ca is not None:    # If we sucessfully pulled the information from the site, we'll store it into JSON files.
+                    with open("cc_ca.json", "w") as writeJSON:
+                        json.dump(data_cc_ca, writeJSON, ensure_ascii=False)
 
             if site == 'amazon.ca':    # Run the search on amazon.ca if it was selected.
                 try:
@@ -71,13 +73,19 @@ class ItemDataCA(object):
                     data_amazon_ca = None    # If there was a problem pulling the information, set the variable to None.
                     print(f'An error has occured with {site}')
         
-                if data_newegg_ca is not None:    # If we sucessfully pulled the information from the site, we'll store it into JSON files.
-                    print()
+                if data_amazon_ca is not None:    # If we sucessfully pulled the information from the site, we'll store it into JSON files.
+                    with open("amazon_ca.json", "w") as writeJSON:
+                        json.dump(data_amazon_ca, writeJSON, ensure_ascii=False)
 
-search_sites = ['newegg.ca', 'amazon.ca', 'canadacomputers.com']    # List of all the sites we have in our program.
+def main():
 
-search_for = 'corsair case'    # Search term that the user wants to search for.
-search_in = ['newegg.ca', 'canadacomputers.com']    # List of the sites that the user wants to search in.
+    search_sites = ['newegg.ca', 'amazon.ca', 'canadacomputers.com']    # List of all the sites we have in our program.
 
-test_run = ItemDataCA(search_in)
-test_run.data_canada()
+    search_for = 'msi 3080 12g'    # Search term that the user wants to search for.
+    search_in = search_sites   # List of the sites that the user wants to search in.
+
+    test_run = ItemDataCA(search_in, search_for)
+    test_run.data_canada()
+
+if __name__ == '__main__':
+    main()

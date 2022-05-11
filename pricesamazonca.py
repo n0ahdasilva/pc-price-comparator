@@ -14,9 +14,9 @@ from webdriver_manager.firefox import GeckoDriverManager    # Automates the exec
 
 firefox_driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())    # Open a browser session.
 
-class Amazon(object):
+class AmazonCA(object):
     def __init__(self, item):                                                                         # Making the search result URL with the name of the item
-        self.search_url = (f'https://www.amazon.ca/s?k={item}&ref=nb_sb_noss_2').replace(' ', '+')    # to search. Replacing spaces in the item name with '+'.
+        self.search_url = (f'https://www.amazon.ca/s?k={item}').replace(' ', '+')    # to search. Replacing spaces in the item name with '+'.
 
     def get_content_data(self):    # Function to collect content/data from the search URL.
         firefox_driver.get(self.search_url)    # Make a GET request to amazon.ca/..., using Selenium.
@@ -25,12 +25,12 @@ class Amazon(object):
 
     def get_product_urls(self):    
         # Filtering the product URL from what we got in the getContentData() function:
-        page_data = self.get_content_data().find_all('div', class_=
-            's-expand-height s-include-content-margin s-border-bottom s-latency-cf-section')    # Getting all the products inside the DIV block (mostly search results, mix of sponsored).
+        page_data = self.get_content_data().find_all('a', class_=
+            'a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal')    # Getting all the products inside the DIV block (mostly search results, mix of sponsored).
         #print(len(productLinks))
         page_links = []
         for i in page_data:    # Going through each product in the DIV block.
-            page_links.append(i.h2.a['href'])    # Add the URL paths to the pageLink list (amazon product links only contain the path to the store, and not a full link).
+            page_links.append(i.a['href'])    # Add the URL paths to the pageLink list (amazon product links only contain the path to the store, and not a full link).
         product_links = ['https://www.amazon.ca' + i 
             for i in page_links if not i.startswith('/gp/')]    # Filter out the sponsored content (starts with /gp/), and add the domain in front of the URL path.
 
