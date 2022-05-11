@@ -1,0 +1,98 @@
+[
+    {
+        "brand": "MSI",
+        "model": "RTX 3080 Suprim X 10G LHR",
+        "title": "MSI GeForce RTX 3080 Suprim X 10G LHR GDDR6X 1905 MHz Boost 19 Gbps 3x DP1.4 HDMI RGB RTX 3080 Suprim X 10G LHR",
+        "price": "1,196.00",
+        "rating": "NONE",
+        "num of reviews": "NONE"
+    },
+    {
+        "brand": "MSI",
+        "model": "RTX 3080 Ti Gaming X Trio 12G",
+        "title": "MSI GeForce RTX 3080 Ti GAMING X Trio 12G GDDR6X - 1770 MHz DisplayPort x 3 (v1.4a) / HDMI 2.1 x 1 - RTX 3080 Ti GAMING X Trio 12G",
+        "price": "1,789.00",
+        "rating": "NONE",
+        "num of reviews": "NONE"
+    },
+    {
+        "brand": "MSI",
+        "model": "RTX 3080 Ventus 3X 10G OC LHR",
+        "title": "MSI GeForce RTX 3080 VENTUS 3X 10G OC LHR GDDR6X 1740 MHz Boost 19 Gbps Memory 3xDP1.4 HDMI PCIE4.0 - RTX 3080 Ventus 3X 10G OC LHR",
+        "price": "1,269.00",
+        "rating": "NONE",
+        "num of reviews": "NONE"
+    },
+    {
+        "brand": "MSI",
+        "model": "RTX 3080 SUPRIM X 10G",
+        "title": "MSI GeForce RTX 3080 SUPRIM X 10GB GDDR6X - 1905 MHz Boost, 19 Gbps Memory - PCIE4.0, DP1.4, HDMI2.1 - RTX 3080 SUPRIM X 10G",
+        "price": "1,199.00",
+        "rating": "NONE",
+        "num of reviews": "NONE"
+    },
+    {
+        "brand": "MSI",
+        "model": "RTX 3080 VENTUS 3X PLUS 10G OC LHR",
+        "title": "MSI GeForce RTX 3080 VENTUS 3X PLUS 10G OC LHR GDDR6X 1740 MHz Boost 19 Gbps Memory 3xDP1.4 HDMI PCIE4.0 - RTX 3080 VENTUS 3X PLUS 10G OC LHR",
+        "price": "1,119.00",
+        "rating": "NONE",
+        "num of reviews": "NONE"
+    },
+    {
+        "brand": "MSI",
+        "model": "RTX 3080 Gaming Z Trio 12G LHR",
+        "title": "MSI GeForce RTX 3080 GAMING Z TRIO 12G GDDR6X LHR 1815 MHz 19 Gbps DP 1.4a HDMI RGB RTX 3080 GAMING Z TRIO PLUS 12G LHR",
+        "price": "1,399.00",
+        "rating": "NONE",
+        "num of reviews": "NONE"
+    },
+    {
+        "brand": "MSI",
+        "model": "RTX 3080 Ti Ventus 3X 12G OC",
+        "title": "MSI GeForce RTX 3080 Ti Ventus 3X 12G OC GDDR6X - 1695 MHz DisplayPort x 3 (v1.4a) / HDMI 2.1 x 1 - RTX 3080 Ti Ventus 3X 12G OC",
+        "price": "1,699.00",
+        "rating": "NONE",
+        "num of reviews": "NONE"
+    },
+    {
+        "brand": "MSI",
+        "model": "Aegis RS 11TF-223US",
+        "title": "MSI Aegis RS 11TF-223US Gaming Desktop - Intel Core i7-11700K, GeForce RTX 3080 Ti, 32GB DDR4, 2TB SSD + 2TB HDD, WiFi 6E, Liquid Cooling, USB Type-C, VR-Ready, Windows 10 Home Advanced",
+        "price": "4,499.99",
+        "rating": "NONE",
+        "num of reviews": "NONE"
+    },
+    {
+        "brand": "MSI",
+        "model": "RTX 3080 Ti SUPRIM X 12G",
+        "title": "MSI GeForce RTX 3080 Ti SUPRIM X 12G GDDR6X - 1845 MHz DisplayPort x 3 (v1.4a) / HDMI 2.1 x 1 - RTX 3080 Ti SUPRIM X 12G",
+        "price": "1,769.00",
+        "rating": "NONE",
+        "num of reviews": "NONE"
+    },
+    {
+        "brand": "MSI",
+        "model": "GS76 Stealth 11UH-029",
+        "title": "MSI GS76 Stealth Gaming Notebook, 17.3\"FHD, Intel Core i7-11800H, RTX3080, 32 GB DDR4 , 1TB SSD, Windows 10 Pro, GS76 Stealth 11UH-029",
+        "price": "2,799.00",
+        "rating": "NONE",
+        "num of reviews": "NONE"
+    },
+    {
+        "brand": "MSI",
+        "model": "Aegis RS 11TE-206US",
+        "title": "MSI Aegis RS Gaming Desktop, Intel Core i7-11700KF, GeForce RTX 3080, 16GB Memory, 1TB SSD, WiFi 6E, Liquid Cooling, USB Type-C, VR-Ready, Windows 10 Home (Aegis RS 11TE-206US)",
+        "price": "3,299.99",
+        "rating": "NONE",
+        "num of reviews": "NONE"
+    },
+    {
+        "brand": "MSI",
+        "model": "Trident X 11TE-1683CA",
+        "title": "MSI MEG Trident X Desktop Computer-  Intel Core i7-11700K, NVIDIA RTX 3080, 32GB DDR4, 1TB SSD, Windows 10 Home- Trident X 11TE-1683CA",
+        "price": "3,699.99",
+        "rating": "NONE",
+        "num of reviews": "NONE"
+    }
+]

@@ -1,14 +1,36 @@
- # Noah Arcand Da Silva
-# 2021-03-07 (YYYY-MM-DD)
-# Price Comparator - pricesamazon.py
-# Version 1.0
+'''
+    PROJECT : Price Comparator
+    
+    FILENAME : amazon_ca.py
 
-""" NOTE — ABOUT THIS PROGRAM 
-...
-"""
+    DESCRIPTION :
+        This program takes the information gathered from selected websites 
+        and stores them in JSON files.
+    
+    FUNCTIONS :
+        get_content_data()
+        get_product_urls()
+        get_product_data()
+        set_product_data()
+
+
+    NOTES :
+        Need to fix random scrape failures. Unsure what is causing them.
+        Might have something to do with the browser session and javascript.
+        
+    AUTHOR :    Noah Arcand Da Silva    START DATE :    2021.03.07 (YYYY-MM-DD)
+
+    CHANGES :
+        1. Updated HTML class/id naming conventions.
+        2. Merged browser sessions into one file.
+    
+    VERSION     DATE        WHO     DETAIL
+    0.0.1b      2022.05.11  Noah    Project refresh to work with newer libraries.
+'''
 
 from bs4 import BeautifulSoup    # BeautifulSoup helps us find the tags we need in the HTML of the website.
 import requests    # Requests allows us to access and pull the website's HTML.
+
 from selenium import webdriver    # The web drivers from selenium lets us access the website with the browser of our choice.
 from webdriver_manager.firefox import GeckoDriverManager    # Automates the executable path management part of selenium.
 
@@ -25,12 +47,12 @@ class AmazonCA(object):
 
     def get_product_urls(self):    
         # Filtering the product URL from what we got in the getContentData() function:
-        page_data = self.get_content_data().find_all('a', class_=
-            'a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal')    # Getting all the products inside the DIV block (mostly search results, mix of sponsored).
+        page_data = self.get_content_data().find_all('div', class_=
+            'a-section a-spacing-none a-spacing-top-small s-title-instructions-style')    # Getting all the products inside the DIV block (mostly search results, mix of sponsored).
         #print(len(productLinks))
         page_links = []
         for i in page_data:    # Going through each product in the DIV block.
-            page_links.append(i.a['href'])    # Add the URL paths to the pageLink list (amazon product links only contain the path to the store, and not a full link).
+            page_links.append(i.h2.a['href'])    # Add the URL paths to the pageLink list (amazon product links only contain the path to the store, and not a full link).
         product_links = ['https://www.amazon.ca' + i 
             for i in page_links if not i.startswith('/gp/')]    # Filter out the sponsored content (starts with /gp/), and add the domain in front of the URL path.
 
@@ -49,13 +71,17 @@ class AmazonCA(object):
     def set_product_data(self):    # Filtering specific data about the product from what we got in the getData() function:
         product_info_list = []    # Where we'll store all of the products' data.
         product_brand,product_model,product_title,product_price,product_rating,product_review_count = 'NONE','NONE','NONE','NONE','NONE','NONE'    # Initializing each product variable.
-        url_list = self.get_product_urls()    # Store the URL list from getProductURLs() into URL_LIST.
         
+        
+        url_listfull = self.get_product_urls()    # Store the URL list from getProductURLs() into URL_LIST.
+        url_list = url_listfull[:3]
+
+
         for url in url_list:    # For each URL in the URL_LIST:
             product_data = self.get_product_data(url)    # Pull all the data from the product page.
             
             try:    # Grab the product Brand as a string.               
-                for th_tags in product_data.find_all('th', class_='a-color-secondary a-size-base prodDetSectionEntry'):    # Find all HTML th tags on the page.
+                for th_tag in product_data.find_all('th', class_='a-color-secondary a-size-base prodDetSectionEntry'):    # Find all HTML th tags on the page.
                     if th_tag.text.strip() == 'Brand':    # Filter the tag with name 'Brand'
                         product_brand = th_tag.find_next_sibling().text.strip()    # Store the next sibling (brand name) into productBrand.
             except:
@@ -63,7 +89,7 @@ class AmazonCA(object):
 
             try:    # Grab the Model as a string, and replace the unwanted section with nothing.
                 for th_tag in product_data.find_all('th', class_='a-color-secondary a-size-base prodDetSectionEntry'):    # Find all HTML th tags on the page.
-                    if thTag.text.strip() == 'Item model number':    # Filter the tag with name 'Item model number'
+                    if th_tag.text.strip() == 'Item model number':    # Filter the tag with name 'Item model number'
                         product_model = th_tag.find_next_sibling().text.strip()    # Store the next sibling (model number) into productModel.
             except:
                 product_model = "NONE"    # If it can't find a model number, set the value to NONE.
@@ -74,7 +100,9 @@ class AmazonCA(object):
                 product_title = "NONE"    # If it can't find a title, set the value to NONE.
 
             try:    # Grab th Price as a string.
-                product_price = product_data.find('span', id='priceblock_ourprice').text.strip()
+                whole_price = product_data.find('span', class_='a-price-whole').text.strip()
+                faction_price = product_data.find('span', class_='a-price-fraction').text.strip()
+                product_price = whole_price + faction_price
             except:
                 product_price = "NONE"    # If it can't find a price, set the value to NONE.
 
@@ -84,11 +112,14 @@ class AmazonCA(object):
             except:
                 product_rating = "NONE"    # If it can't find any reviews, set the value to NONE.
                 product_review_count = "NONE"     # If it can't find any reviews, set the value to NONE.
-                
-            product_price = product_price.replace('CDN', '', 1)
-            product_price = product_price.replace(u'\xa0', u'', 1)
-            product_rating = product_rating.replace(' out of 5 stars', '', 1)
-            product_review_count = product_review_count.replace(' ratings', '', 1)
+
+            product_brand = product_brand.replace(u'\xa0', u'')
+            product_brand = product_brand.replace(u'\u200e', '')
+            product_model = product_model.replace(u'\xa0', u'')
+            product_model = product_model.replace(u'\u200e', '')
+            product_price = product_price.replace(u'\xa0', u'')
+            product_rating = product_rating.replace(' out of 5 stars', '')
+            product_review_count = product_review_count.replace(' ratings', '')
 
             product_info = {    # Create a dictionary with the product's collected data.
                 'brand': product_brand,
@@ -100,5 +131,7 @@ class AmazonCA(object):
                 }
             
             product_info_list.append(product_info)    # Add the productInfo dictionary to the list.
+
+        firefox_driver.close()
 
         return product_info_list    # Return the list of dictionaries.

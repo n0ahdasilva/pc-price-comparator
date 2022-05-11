@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "brand": "MSI",
+        "model": "GeForce RTX 3080 GAMING Z TRIO 10G LHR",
+        "title": "MSI GeForce RTX 3080 Gaming Z Trio 10G LHR 10GB GDDR6X - 1830 MHz - DisplayPort x 3 (v1.4a) / HDMI x 1 (RTX 3080 Gaming Z Trio 10G LHR)",
+        "price": "1,321.41",
+        "rating": "4.4",
+        "num of reviews": "54"
+    },
+    {
+        "brand": "MSI",
+        "model": "RTX 3080 VENTUS 3X PLUS 10G OC LHR",
+        "title": "MSI Gaming GeForce RTX 3080 LHR 10GB GDRR6X 320-Bit HDMI/DP Nvlink Torx Fan 3 Ampere Architecture OC Graphics Card (RTX 3080 Ventus 3X Plus 10G OC LHR)",
+        "price": "1,285.00",
+        "rating": "4.1",
+        "num of reviews": "28"
+    },
+    {
+        "brand": "MSI",
+        "model": "GeForce RTX 3080 GAMING Z TRIO 12G LHR",
+        "title": "MSI Gaming GeForce RTX 3080 LHR 12GB GDRR6X 384-Bit HDMI/DP Nvlink Torx Fan 4 RGB Ampere Architecture OC Graphics Card (RTX 3080 Gaming Z Trio 12G LHR)",
+        "price": "1,349.99",
+        "rating": "5.0",
+        "num of reviews": "4"
+    }
+]

@@ -1,11 +1,32 @@
-# Noah Arcand Da Silva
-# 2021-03-07 (YYYY-MM-DD)
-# Price Comparator - websession.py
-# Version 1.0
+'''
+    PROJECT : Price Comparator
+    
+    FILENAME : browsersession.py
 
-""" NOTE — ABOUT THIS PROGRAM 
-...
-"""
+    DESCRIPTION :
+        This program takes the information gathered from selected websites 
+        and stores them in JSON files.
+    
+    FUNCTIONS :
+        get_content_data()
+        get_product_urls()
+        get_product_data()
+        set_product_data()
+
+
+    NOTES :
+        Need to fix random scrape failures. Unsure what is causing them.
+        Might have something to do with the browser session and javascript.
+        
+    AUTHOR :    Noah Arcand Da Silva    START DATE :    2021.03.07 (YYYY-MM-DD)
+
+    CHANGES :
+        1. Updated HTML class/id naming conventions.
+        2. Merged browser sessions into one file.
+    
+    VERSION     DATE        WHO     DETAIL
+    0.0.1b      2022.05.11  Noah    Project refresh to work with newer libraries.
+'''
 
 from selenium import webdriver
 from webdriver_manager.firefox import GeckoDriverManager
