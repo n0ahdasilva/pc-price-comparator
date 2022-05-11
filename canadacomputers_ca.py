@@ -16,9 +16,7 @@
     NOTES :
         Need to fix random scrape failures. Unsure what is causing them.
         Might have something to do with the browser session and javascript.
-    
-        (C) 2022 n0ahdasilva. All rights reserved.
-    
+        
     AUTHOR :    Noah Arcand Da Silva    START DATE :    2021.03.07 (YYYY-MM-DD)
 
     CHANGES :
